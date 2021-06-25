@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "c": "jsg2021/npm7-workspace-test-c",
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "internal": "./"
   }
 }
